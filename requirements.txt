@@ -1,0 +1,12 @@
+streamlit
+crewai
+crewai-tools
+langchain
+langchain-community
+langchain-groq
+duckduckgo-search
+fastapi
+uvicorn
+requests
+python-dotenv
+pydantic
