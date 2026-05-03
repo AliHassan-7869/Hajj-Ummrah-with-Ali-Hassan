@@ -1,12 +1,5 @@
-streamlit
-crewai
-crewai-tools
-langchain
-langchain-community
-langchain-groq
-duckduckgo-search
 fastapi
-uvicorn
+uvicorn[standard]
 requests
-python-dotenv
 pydantic
+python-dotenv
